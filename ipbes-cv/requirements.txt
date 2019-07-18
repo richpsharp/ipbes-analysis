@@ -1,0 +1,16 @@
+# requirements.txt
+# --------------------
+
+GDAL>=2.0,<3.0
+pygeoprocessing>=1.2.3
+google-cloud-storage
+pandas>=0.22.0
+numpy>=1.11.0
+scipy>=0.16.1
+# psutil is used, but not required, by taskgraph to lower process priority
+psutil>=5.2.2
+reproduce>=0.0.8
+taskgraph>=0.8.2
+crcmod
+rtree>=0.8.3
+shapely>=1.6.4

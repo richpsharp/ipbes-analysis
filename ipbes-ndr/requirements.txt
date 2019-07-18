@@ -1,0 +1,9 @@
+dill
+pandas
+google.cloud.storage
+reproduce>=0.0.8
+taskgraph>=0.6.1
+pygeoprocessing>=1.2.3
+gdal>=2.0.0
+rtree>=0.7.0
+shapely>=1.6.3
